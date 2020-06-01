@@ -1,2 +1,2 @@
 # hello-world
-Beginner in making a Repository
+Beginning in making a Repository
